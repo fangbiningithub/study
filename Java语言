@@ -1,3 +1,12 @@
 1. 集合
+  BlockQueue:
+    队列满:
+    add    抛异常
+    offer  返回false
+    put    阻塞
+    队列空:
+    take   阻塞
+    poll   false
+    remove 抛异常
 2. 多线程
 3. 虚拟机
