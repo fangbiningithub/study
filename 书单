@@ -1,15 +1,17 @@
-1. 深入理解JVM虚拟机
-2. Java并发编程实战
-3. Java并发编程艺术
-4. Effective Java
-5. Java性能调优指南
-6. Netty权威指南
-7. Redis设计与实现
-8. 分布式Java应用
-9. 从Paxos到Zookeeper分布式一致性原理与实践
-10. 重构-改善既有代码的设计
-11. 大型网站系统与Java中间件开发实践
-12. 剑指offer
-13. Spring Boot实战
-14. 代码整洁之道
-15. 领域驱动设计.软件核心复杂性应对之道
+
+1. think in java 
+2. 深入理解JVM虚拟机
+3. Effective Java
+4. Java并发编程实战
+5. Java并发编程艺术
+6. Java性能调优指南
+7. Netty权威指南
+8. Redis设计与实现
+9. 分布式Java应用
+10. 从Paxos到Zookeeper分布式一致性原理与实践
+11. 重构-改善既有代码的设计
+12. 大型网站系统与Java中间件开发实践
+13. 剑指offer
+14. Spring Boot实战
+15. 代码整洁之道
+16. 领域驱动设计.软件核心复杂性应对之道
